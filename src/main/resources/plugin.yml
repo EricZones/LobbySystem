@@ -1,0 +1,12 @@
+main: de.ericzones.lobbysystem.LobbySystem
+name: LobbySystem
+version: 1.0
+author: EricZones
+commands:
+  build:
+  setspawn:
+  spawn:
+  setlocation:
+  addlocation:
+  removelocation:
+  chat:
