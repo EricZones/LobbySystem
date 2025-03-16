@@ -21,9 +21,6 @@ LobbySystem is a Minecraft plugin which handles lobby servers with further featu
 1. Move 'LobbySystem-1.0-RELEASE.jar' inside your minecraft servers plugin folder
 2. Start your Minecraft server
 
-## Contributors
-- **EricZones** - Developer
-
 ## Purpose
 The plugin was created for a Minecraft minigames network.
 It was originally developed in 2021 without git.
